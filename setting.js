@@ -3,7 +3,7 @@
 module.exports = {
   BOT_NAME: 'Leader accounts', // ur bot name
   OWNER_NAME: 'Leader accounts', //your name
-  OWNER_NUMBER: '201105274900', // add your phone number
+  OWNER_NUMBER: '+584269734242', // add your phone number
   PREFIXES: ['.', '!', '#'], // Multiple prefix support you can add one or more
   
   
